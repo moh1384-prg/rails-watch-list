@@ -68,3 +68,10 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+gem "bundle", "~> 0.0.1"
+gem "add", "~> 0.3.2"
+gem "ostruct", "~> 0.6.0"
+gem "logger", "~> 1.6"
+gem "base64", "~> 0.2.0"
+gem "bigdecimal", "~> 3.1"
+gem "mutex_m", "~> 0.2.0"
